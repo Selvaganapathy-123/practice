@@ -15,7 +15,10 @@ document.getElementById('login-button').addEventListener('click', e => {
   }
 });
 
-// SLIDER
+// SLIDER//
+
+
+//
 let slide = 0;
 const imgs = document.querySelector('.slider-imgs');
 const total = imgs.children.length;
